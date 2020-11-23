@@ -1,0 +1,9 @@
+{
+  "info": [
+    {
+      "loanAmount": 100000,
+      "interestRate": 3,
+      "numberMonths": 360
+    }
+  ]
+}
